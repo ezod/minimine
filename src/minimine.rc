@@ -1,0 +1,11 @@
+/******************************************************************************
+ * MINIMINE.RC
+ * Resource file for the program's GUI. All resource files are located in the
+ * "res" subdirectory of the source directory.
+ ******************************************************************************/
+
+#include "minimine.h"
+
+IDI_ICON1 ICON res/minimine.ico
+IDB_WINDOW BITMAP res/window.bmp
+IDB_ELEMENTS BITMAP res/elements.bmp
