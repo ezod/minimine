@@ -1,0 +1,4 @@
+* Add an ESC hotkey that minimizes the window (remember when games had Boss Keys?).
+* Maybe an F2 hotkey to start a new game.
+* Improve window repainting. It's a little amateurish right now.
+* General code cleanup.
